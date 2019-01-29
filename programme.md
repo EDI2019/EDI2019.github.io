@@ -6,7 +6,7 @@ menu: true
 order: 4
 ---
 
-#### Day 1 – 8th May
+## Day 1 – 8th May
 
 12:00-12:15 Arrival\\
 12:15-13:00 Lunch\\
@@ -19,7 +19,7 @@ order: 4
 17:15 Travel back to Travelodge Haymarket\\
 19:45 Dinner (Departure from Travelodge Haymarket)
 
-#### Day 2 – 9th May
+## Day 2 – 9th May
 
 09:30-10:00 Departure from Travelodge Haymarket\\
 10:00-10:45 Keynote speaker: Frank Guerin\\
@@ -31,7 +31,7 @@ order: 4
 16:00-17:30 Group discussions (3rd session)\\
 17:30 Travel back to Travelodge Haymarket
 
-#### Day 3 – 10th May
+## Day 3 – 10th May
 
 09:30-10:00 Departure from Travelodge Haymarket\\
 10:00-11:00 Group discussions (4st session)\\
