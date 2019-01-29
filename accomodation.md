@@ -6,6 +6,6 @@ menu: true
 order: 3
 --- 
 
-For the accomodation on the night of 8th May and 9th May, we recommend the Travelodge Edinburgh Haymarket???
+For the accomodation on the night of 20th May and 21th May, we recommend the Best Western Plus Bruntsfield.
 
 We will be collecting participants from that hotel each morning to take you to the workshop venue. However, if you would like help to find other accommodation then please contact the organisors and we will be happy to assist you.
