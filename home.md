@@ -5,7 +5,7 @@ layout: page
 menu: true
 order: 1
 ---
-*20-22th May 2019 in Edinburgh, Scotland*\\
+*20-22th May 2019 in Edinburgh, Scotland*
 
 [Edinburgh Napier University](https://www.napier.ac.uk) is proud to welcome you to the **2019 Workshop on Evolution and Dynamics of Institutions.**
 
