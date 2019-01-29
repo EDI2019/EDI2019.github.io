@@ -7,8 +7,7 @@ order: 1
 ---
 
 **Edinburgh Napier University is proud to welcome you to the:**
-
-### 2018 Workshop on Evolution and Dynamics of Institutions
+## 2018 Workshop on Evolution and Dynamics of Institutions
 
 20-22 May 2018 in Edinburgh, Scotland
 
