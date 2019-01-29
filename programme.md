@@ -21,15 +21,15 @@ order: 4
 
 ## Day 2 – Tuesday 21th May
 
-**09:30-10:00** Departure from Travelodge Haymarket\\
+*09:30-10:00 Departure from Travelodge Haymarket*\\
 **10:00-10:45** Keynote speaker\\
-**10:45-11:15** Coffee break\\
+*10:45-11:15 Coffee break*\\
 **11:15-13:00** Group discussions (1st session)\\
-**13:00-14:00** Lunch\\
+*13:00-14:00 Lunch*\\
 **14:00-15:30** Group discussions (2nd session)\\
-**15:30-16:00** Coffee break\\
+*15:30-16:00 Coffee break*\\
 **16:00-17:30** Group discussions (3rd session)\\
-**17:30** Travel back to Travelodge Haymarket
+*17:30 Travel back to Travelodge Haymarket*
 
 ## Day 3 – Wednesday 22th May
 
