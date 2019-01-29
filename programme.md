@@ -8,16 +8,16 @@ order: 4
 
 ## Day 1 – Monday 20th May
 
-**12:00-12:15** Arrival\\
-**12:15-13:00** Lunch\\
-**13:00-13:15** Welcome talk\\
-**13:15-14:00** Keynote speaker\\
-**14:00-15:00** 10 min talks (1st session)\\
-**15:00-15:30** Coffee break\\
-**15:30-16:15** Keynote speaker\\
-**16:15-17:15** 10 min talks (2nd session)\\
-**17:15**       Travel back to Travelodge Haymarket\\
-**19:45**       Dinner (Departure from Travelodge Haymarket)
+**12:00-12:15** - Arrival\\
+**12:15-13:00** - Lunch\\
+**13:00-13:15** - Welcome talk\\
+**13:15-14:00** - Keynote speaker\\
+**14:00-15:00** - 10 min talks (1st session)\\
+**15:00-15:30** - Coffee break\\
+**15:30-16:15** - Keynote speaker\\
+**16:15-17:15** - 10 min talks (2nd session)\\
+**17:15** - Travel back to Travelodge Haymarket\\
+**19:45** - Dinner (Departure from Travelodge Haymarket)
 
 ## Day 2 – Tuesday 21th May
 
