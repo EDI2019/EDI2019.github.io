@@ -6,4 +6,5 @@ menu: true
 order: 2
 ---
 
-To come
+Edinburgh Napier University
+Merchiston campus
