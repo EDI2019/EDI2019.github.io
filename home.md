@@ -12,6 +12,7 @@ Research increasingly recognizes the importance of institutions e.g. rules, laws
 
 Formalizations of the emergence and evolution of institutions are still lacking mainly because of the need of a multidisciplinary approach. We believe that specialists of human behaviour and its evolution are well suited to contribute to this gap. Therefore, this workshop brings together practionners from computing sciences, evolutionary biology and economy to identify key questions and main approaches to study the dynamics of institutions.
 
+The workshop will result in (i) a collaborative network and (ii) the outline of a position paper.  To do so, the workshop attendee is composed by a small number of invited participants (<15). The workshop will start with the introductions of participants. It will then be followed by a general discussion to identify key issues. Following from that, groups will be created to work in more depth on a specific topic. All along the session, the participants will write together a draft of a position paper which summarise the discussion of the workshop.
 
 ___
 **The EDI 2019 organising committee:**
