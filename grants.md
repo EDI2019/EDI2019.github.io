@@ -3,7 +3,7 @@ title: Grants
 layout: page
 
 menu: true
-order: 7
+order: 6
 ---
 
 Edinburgh Napier University is offering financial support to attend the workshop on evolution and dynamics of institutions.

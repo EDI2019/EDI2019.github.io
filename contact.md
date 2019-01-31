@@ -3,7 +3,7 @@ title: Contact
 layout: page
 
 menu: true
-order: 6
+order: 7
 ---
 
 For any questions, please contact:
