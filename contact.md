@@ -9,5 +9,5 @@ order: 7
 For any questions, please contact:
 
 
-**Cedric Perret**\\
+[Cedric Perret](https://www.napier.ac.uk/people/cedric-perret)\\
 C.perret@napier.ac.uk
