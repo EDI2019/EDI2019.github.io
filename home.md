@@ -13,7 +13,7 @@ Formalizations of the emergence and evolution of institutions are still lacking 
 The workshop will result in (i) a collaborative network and (ii) the outline of a position paper.  To do so, the workshop is composed by a small number of invited participants (<15). The workshop will start with the introductions of participants. It will then be followed by a general discussion to identify key questions in the dynamics and evolution of institutions. Following from that, groups will be created to work in more depth on specific topics. Througout the workshop, the participants will write together a draft of a position paper which summarise workshop discussions.
 
 ___
-Workshop dates: *Monday 20th May 12:00 - Wedsneday 22nd May 13:00*
+Workshop dates:  **Monday 20th May 12:00 - Wedsneday 22nd May 13:00**
 
 ___
 **The EDI 2019 organising committee:**
