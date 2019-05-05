@@ -35,5 +35,5 @@ order: 4
 **10:00-11:00** Group discussions (4st session)\\
 **11:00-11:30** Coffee break\\
 **11:30-13:00** Workshop discussion on next steps\\
-**13:00**       End of the workshop
+**13:00**       Lunch and end of the workshop
 
