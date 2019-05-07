@@ -10,7 +10,7 @@ Please find below relevant literature from participants of the workshop:
 
 [test](/papers/test.pdf)
 
-[test](https://EDI2019.github.io/papers/test.pdf)
+[test](https://edi2019.github.io/papers/test.pdf)
 
 
 "/papers/test.pdf"
