@@ -12,5 +12,8 @@ Please find below relevant literature from participants of the workshop:
 
 [test](https://edi2019.github.io/papers/test.pdf)
 
+[test](https://edi2019.github.io/papers/test.pdf)
+
+<embed src="https://edi2019.github.io/papers/test.pdf" type="application/pdf" />
 
 "/papers/test.pdf"
