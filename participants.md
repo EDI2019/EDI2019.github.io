@@ -3,7 +3,7 @@ title: Participants
 layout: page
 
 menu: true
-order: 5
+order: 4
 ---
 
 - [Aniko Ekart](https://www2.aston.ac.uk/eas/staff/a-z/dr-aniko-ekart)

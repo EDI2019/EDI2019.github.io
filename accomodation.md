@@ -3,7 +3,7 @@ title: Accomodation
 layout: page
 
 menu: true
-order: 3
+order: 6
 --- 
 
 For the accomodation on the night of 20th May and 21th May, we recommend the [Best Western Plus Bruntsfield](https://www.thebruntsfield.co.uk).

@@ -3,7 +3,7 @@ title: Programme
 layout: page
 
 menu: true
-order: 4
+order: 3
 ---
 
 ## Day 1 – Monday 20th May
