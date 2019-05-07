@@ -16,6 +16,6 @@ Please find below relevant literature from participants of the workshop:
 
 <embed src="https://edi2019.github.io/papers/test.pdf" type="application/pdf" />
 
+testasset
 
-
-[test](/assets/img/EDIlogo.png)
+[test](/assets/papers/test.pdf)
