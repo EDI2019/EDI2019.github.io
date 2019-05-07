@@ -8,14 +8,10 @@ order: 5
 
 Please find below relevant literature from participants of the workshop:
 
-[test](/papers/test.pdf)
+[Modelling enduring institutions: The complementarity of evolutionary and agent-based approaches. Powers, Ekart and Lewis. 2018](/assets/papers/PowersModellingApproaches.pdf)
 
-[test](https://edi2019.github.io/papers/test.pdf)
+[Group size effects in social evolution. Pena et Noldeke. 2018](/assets/papers/PenaGroupEvolution.pdf)
 
-[test](https://edi2019.github.io/papers/test.pdf)
+[Modelling and influencing the AI bidding war: A research agenda. Han, Pereira and Lenaerts. 2019](/assets/papers/HanModellingAgenda.pdf)
 
-<embed src="https://edi2019.github.io/papers/test.pdf" type="application/pdf" />
-
-testasset
-
-[test](/assets/papers/test.pdf)
+[How institutions shaped the last major evolutionary transition to large-scale human societies. Powers, van Schaik and Lehmann. 2015](/assets/papers/PowersHowSocieties.pdf)
