@@ -19,4 +19,6 @@ Please find below relevant literature from participants of the workshop:
 
 <a target='_blank' href={require('https://edi2019.github.io/papers/test.pdf')}>PDF Doc</a>
 
-"/papers/test.pdf"
+/papers/test.pdf
+
+[test](https://edi2019.github.io/assets/imgEDIlogo.png)
