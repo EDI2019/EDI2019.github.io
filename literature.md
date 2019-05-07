@@ -21,4 +21,4 @@ Please find below relevant literature from participants of the workshop:
 
 /papers/test.pdf
 
-[test](https://edi2019.github.io/assets/imgEDIlogo.png)
+[test](/assets/img/EDIlogo.png)
