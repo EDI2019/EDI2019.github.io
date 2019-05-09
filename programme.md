@@ -12,10 +12,10 @@ order: 3
 **12:15-13:00** Lunch\\
 **13:00-13:30** Welcome talk\\
 **13:30-15:00** Participants introduction talks 1
-- 13:30 James Borg
-- 13:45 Marco Campenni
-- 14:00 Claire Guerin
-- 14:15 The Anh Han
+- *13:30 James Borg*
+- *13:45 Marco Campenni*
+- *14:00 Claire Guerin*
+- *14:15 The Anh Han*
 - 14h30 Laurent Lehmann
 - 14h45 Lucas Molleman\\
 **15:00-15:30** Coffee break\\
