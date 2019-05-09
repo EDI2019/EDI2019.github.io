@@ -25,6 +25,8 @@ order: 3
 - 16:00 Cedric Perret
 - 16:15 Jeremy Pitt
 - 16:30 Simon Powers\\
+
+
 **17:15** Travel back to Best Western Plus Brunstfield\\
 **19:00** Dinner Bisque (Departure from Best Western Plus Brunstfield)
 
