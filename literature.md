@@ -16,4 +16,4 @@ Please find below relevant literature from participants of the workshop:
 
 [How institutions shaped the last major evolutionary transition to large-scale human societies. Powers, van Schaik, Lehmann. 2015](/assets/papers/PowersHowSocieties.pdf)
 
-[Conductive interactive experiments online. Arechar, Gatcher, Molleman. 2017](/assets/papers/ArecharConductingOnline)
+[Conductive interactive experiments online. Arechar, Gatcher, Molleman. 2017](/assets/papers/ArecharConductingOnline.pdf)
