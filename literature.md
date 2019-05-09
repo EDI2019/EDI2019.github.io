@@ -15,3 +15,5 @@ Please find below relevant literature from participants of the workshop:
 [Modelling and influencing the AI bidding war: A research agenda. Han, Pereira, Lenaerts. 2019](/assets/papers/HanModellingAgenda.pdf)
 
 [How institutions shaped the last major evolutionary transition to large-scale human societies. Powers, van Schaik, Lehmann. 2015](/assets/papers/PowersHowSocieties.pdf)
+
+[Conductive interactive experiments online. Arechar, Gatcher, Molleman. 2017](/assets/papers/ArecharConductingOnline)
