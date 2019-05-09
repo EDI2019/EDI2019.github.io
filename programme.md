@@ -15,7 +15,7 @@ order: 3
 **15:00-15:30** - Coffee break\\
 **15:30-17:00** - Participants introduction talks\\
 **17:15** - Travel back to Best Western Plus Brunstfield\\
-**19:45** - Dinner (Departure from Best Western Plus Brunstfield)
+**19:00** - Dinner (Departure from Best Western Plus Brunstfield)
 
 ## Day 2 – Tuesday 21th May
 
