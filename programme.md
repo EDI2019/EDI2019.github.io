@@ -27,8 +27,8 @@ order: 3
 **14:00-15:30** Group discussions (3rd session)\\
 **15:30-16:00** Coffee break\\
 **16:00-17:30** Group discussions (4th session)\\
-**17:30**       Travel back to Best Western Plus Brunstfield
-(**19:30**)		Dinner Whiski rooms
+**17:30**       Travel back to Best Western Plus Brunstfield\\
+**19:30**		Dinner Whiski rooms
 
 ## Day 3 – Wednesday 22th May
 
@@ -37,4 +37,3 @@ order: 3
 **11:00-11:30** Coffee break\\
 **11:30-13:00** Workshop discussion on next steps\\
 **13:00**       Lunch and end of the workshop
-
