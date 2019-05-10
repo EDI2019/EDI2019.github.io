@@ -6,7 +6,7 @@ menu: true
 order: 4
 ---
 
-- [Aniko Ekart](https://www2.aston.ac.uk/eas/staff/a-z/dr-aniko-ekart)
+- [Anikó Ekárt](https://www2.aston.ac.uk/eas/staff/a-z/dr-aniko-ekart)
 - [Cedric Perret](https://www.napier.ac.uk/people/cedric-perret)
 - [Claire Guerin](https://www.unil.ch/dee/en/home/menuinst/people/graduate-students/claire-guerin.html)
 - [James Borg](https://www.keele.ac.uk/scm/staff/jamesborg/)
