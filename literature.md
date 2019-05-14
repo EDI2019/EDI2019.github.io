@@ -17,3 +17,5 @@ Please find below relevant literature from participants of the workshop:
 [How institutions shaped the last major evolutionary transition to large-scale human societies. Powers, van Schaik, Lehmann. 2015](/assets/papers/PowersHowSocieties.pdf)
 
 [Conductive interactive experiments online. Arechar, Gatcher, Molleman. 2017](/assets/papers/ArecharConductingOnline.pdf)
+
+[Being a leader or being the leader: The evolution of institutionalised hierarchy. Perret, Powers, Hart. 2019](/assets/papers/PerretBeingHierarchy.pdf)
