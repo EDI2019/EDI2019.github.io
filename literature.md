@@ -19,3 +19,5 @@ Please find below relevant literature from participants of the workshop:
 [Conductive interactive experiments online. Arechar, Gatcher, Molleman. 2017](/assets/papers/ArecharConductingOnline.pdf)
 
 [Being a leader or being the leader: The evolution of institutionalised hierarchy. Perret, Powers, Hart. 2019](/assets/papers/PerretBeingHierarchy.pdf)
+
+[Axiomatisation of Socio-Economic Principles for Self-Organising Institutions: Concepts, Experiments and Challenges. Pitt, Schaumeier, Artikis. 2011](/assets/papers/PittAxiomatisationChallenges)
