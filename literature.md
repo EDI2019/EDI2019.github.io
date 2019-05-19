@@ -21,3 +21,5 @@ Please find below relevant literature from participants of the workshop:
 [Being a leader or being the leader: The evolution of institutionalised hierarchy. Perret, Powers, Hart. 2019](/assets/papers/PerretBeingHierarchy.pdf)
 
 [Axiomatisation of Socio-Economic Principles for Self-Organising Institutions: Concepts, Experiments and Challenges. Pitt, Schaumeier, Artikis. 2011](/assets/papers/PittAxiomatisationChallenges.pdf)
+
+[Evolutionary adaptation to social information use without learning. Borg, Channon. 2017](/assets/papers/BorgEvolutionaryLearning.pdf)
