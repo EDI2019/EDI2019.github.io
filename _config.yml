@@ -107,6 +107,9 @@ defaults:
       seo:
         type:          WebPage
 
+menu:
+  - title: Google drive
+    url:   https://drive.google.com/drive/folders/1yi_gMZVtWyti0yBxTAjUyuLs2CJHeKYZ
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
