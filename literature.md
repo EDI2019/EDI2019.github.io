@@ -6,6 +6,10 @@ menu: true
 order: 5
 ---
 
+Link to the google drive:
+
+[Click here](https://drive.google.com/drive/folders/1yi_gMZVtWyti0yBxTAjUyuLs2CJHeKYZ)
+
 Please find below relevant literature from participants of the workshop:
 
 [Modelling enduring institutions: The complementarity of evolutionary and agent-based approaches. Powers, Ekárt, Lewis. 2018](/assets/papers/PowersModellingApproaches.pdf)
