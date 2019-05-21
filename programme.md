@@ -25,7 +25,6 @@ order: 3
 - *15:45 Jorge Peña*
 - *16:00 Cedric Perret*
 - *16:15 Jeremy Pitt*
-- *16:30 Simon Powers*
 - *16:45 Nichola Raihani*
 
 **17:15** Travel back to Best Western Plus Brunstfield\\
@@ -33,9 +32,9 @@ order: 3
 
 ## Day 2 – Tuesday 21th May
 
-**09:30-10:00** Departure from Best Western Plus Brunstfield\\
 **10:00-10:15** Participants introduction talks 3
 - 10:00 *Anikó Ekárt*
+- 10:15 *Simon Powers*
 
 **10:15-10:45** General discussion (1st session)\\
 **10:45-11:15** Coffee break\\
@@ -49,7 +48,6 @@ order: 3
 
 ## Day 3 – Wednesday 22th May
 
-**09:30-10:00** Departure from Best Western Plus Brunstfield\\
 **10:00-11:00** Group discussions (3st session)\\
 **11:00-11:30** Coffee break\\
 **11:30-13:00** Workshop discussion on next steps\\
