@@ -27,3 +27,10 @@ Please find below relevant literature from participants of the workshop:
 [Axiomatisation of Socio-Economic Principles for Self-Organising Institutions: Concepts, Experiments and Challenges. Pitt, Schaumeier, Artikis. 2011](/assets/papers/PittAxiomatisationChallenges.pdf)
 
 [Evolutionary adaptation to social information use without learning. Borg, Channon. 2017](/assets/papers/BorgEvolutionaryLearning.pdf)
+
+----
+[Quadratic Voting: How Mechanism Design Can Radicalize Democracy. Lalley. 2018](https://www.aeaweb.org/articles?id=10.1257/pandp.20181002)
+
+[Voting with Feet: Community Choice in Social Dilemmas. Gürerk,Irlenbusch, Rockenbach. 2009](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1526073)
+
+[Emergence of complex institutions in a large population of self-governing communities. Frey, Sumner. AKA "minecraft paper"](https://arxiv.org/ftp/arxiv/papers/1804/1804.10312.pdf)
